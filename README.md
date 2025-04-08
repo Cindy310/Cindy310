@@ -2,13 +2,13 @@
 
 ![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-**Desarrolladora apasionada** por la tecnología, el aprendizaje constante y la creación de soluciones innovadoras que generan impacto.
+**Desarrolladora en proceso** Trabajo con .NET, pero a veces me conecto con el universo buscando por qué no compila.
 
 ---
 
 ## 📌 Sobre mí
 
-- 🎓 **Formación**: Estudiante de Ingeniería en Computación.
+- 🎓 **Formación**: Estudiante tecnico en ingenieria de desarrollo de software.
 - 💼 **Actualmente**: Enfocado en desarrollo de aplicaciones web usando ASP.NET Core MVC.
 - 📚 **Aprendiendo actualmente**: .NET 8, DevOps con Azure, y mejores prácticas UI con Bootstrap 5.
 - 🎯 **Intereses**: Desarrollo en C#, diseño de bases de datos, y construcción de interfaces modernas.
@@ -29,7 +29,7 @@
 
 ### 🔢 Calculadoras Web en ASP.NET Core MVC
 - ✅ Conversión de temperatura, promedio, descuento, precio final.
-- 💄 Interfaz moderna con Bootstrap 5.
+- 💄 Interfaz moderna con Bootstrap.
 - 🔧 Lógica clara usando el patrón MVC.
 
 > Visita algunos de mis proyectos:  
