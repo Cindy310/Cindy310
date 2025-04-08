@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Cindy Fabiola Hernandez Recinos 👩🏻💻
+# 👋🏻 ¡Hola! Soy Cindy Fabiola Hernandez Recinos 💻
 
 ![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
